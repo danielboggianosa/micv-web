@@ -8,7 +8,8 @@
             "direccion": "Jr. Juan Hevia 2530, SMP, Lima, Perú",
             "brevete": "A1",
             "ruc": "10443235201",
-            "nacimiento": "1987-03-06"
+            "nacimiento": "1987-03-06",
+            "imagen":"http://138.197.196.196/api/imagenes/11.jpg"
         },
         "contacto": {
             "telefono": "+51 934 224 719",
@@ -421,11 +422,13 @@
             "porcentaje":60
         }
     ],
-    "trabajos":{
+    "experiencia":{
         "programador":[],
         "instructor":[],
         "empresario":[],
         "traductor":[]
     },
-    "certificados":[]
+    "certificados":[
+        
+    ]
 }

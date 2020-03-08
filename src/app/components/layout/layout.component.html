@@ -1,0 +1,13 @@
+<!-- Page Wrapper -->
+<div id="wrapper">
+    <app-sidebar #sidebar></app-sidebar>
+    <div id="content-wrapper" class="d-flex flex-column">
+        <div id="content">
+            <app-topbar (sideBar)="toggleSideBar()"></app-topbar>
+            <div class="container-fluid">
+                <router-outlet></router-outlet>
+            </div>
+            <app-footer></app-footer>
+        </div>
+    </div>
+</div>
