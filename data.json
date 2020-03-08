@@ -1,0 +1,431 @@
+{
+    "datos":{
+        "personales":{
+            "nombre": "Daniel",
+            "apellidos:": "Boggiano Sáenz",            
+            "dni": "44323520",
+            "nacionalidad": "Peruano",
+            "direccion": "Jr. Juan Hevia 2530, SMP, Lima, Perú",
+            "brevete": "A1",
+            "ruc": "10443235201",
+            "nacimiento": "1987-03-06"
+        },
+        "contacto": {
+            "telefono": "+51 934 224 719",
+            "email": "coach@danielboggiano.com",
+            "web": "micv.danielboggiano.com"
+        },
+        "perfil":"Soy un visionario apasionado por el desarrollo e implementación de tecnología para aumentar la productividad y eficiencia de las personas y empresas.",
+        "foda":{
+            "fortalezas":[],
+            "oportunidades":[],
+            "mejoras":[]
+        }
+    },
+    "habilidades": {
+        "programación":{
+            "lenguajes":[
+                {
+                    "nombre":"Git",
+                    "logo":"https://code.scottshipp.com/wp-content/uploads/2019/05/stickeroid_5bf5475aa0ad1.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":90
+                },
+                {
+                    "nombre":"JavaScript",
+                    "logo":"https://f1.pngfuel.com/png/951/574/485/react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends-png-clip-art.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":90
+                },
+                {
+                    "nombre":"TypeScript",
+                    "logo":"https://pbs.twimg.com/profile_images/1092931834894319616/KKZbnwmv_400x400.jpg",
+                    "nivel":"Avanzado",
+                    "porcentaje":90
+                },
+                {
+                    "nombre":"HTML 5",
+                    "logo":"https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":95
+                },
+                {
+                    "nombre":"CSS 3",
+                    "logo":"https://i.ya-webdesign.com/images/css-3-logo-png-7.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":95
+                },
+                {
+                    "nombre":"SASS",
+                    "logo":"https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png",
+                    "nivel":"Intermedio",
+                    "porcentaje":70
+                },
+                {
+                    "nombre":"PHP 7",
+                    "logo":"https://i2.wp.com/code.gestiolex.it/wp-content/uploads/2016/09/php-logo.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":80
+                },
+                {
+                    "nombre":"Visual Basic .NET",
+                    "logo":"https://hackr.io/tutorials/learn-visual-basic-net-vb/logo/logo-visual-basic-net-vb?ver=1551354757",
+                    "nivel":"Intermedio",
+                    "porcentaje":55
+                },
+                {
+                    "nombre":"Java",
+                    "logo":"https://image.flaticon.com/icons/png/512/226/226777.png",
+                    "nivel":"Básico",
+                    "porcentaje":40
+                },
+                {
+                    "nombre":"Python",
+                    "logo":"https://www.stickpng.com/assets/images/5848152fcef1014c0b5e4967.png",
+                    "nivel":"Básico",
+                    "porcentaje":30
+                }
+            ],
+            "database":[
+                {
+                    "nombre":"María DB",
+                    "logo":"https://www.jmvb.online/wp-content/uploads/2019/01/6.png", 
+                    "nivel":"Avanzado",
+                    "porcentaje":80
+                },
+                {
+                    "nombre":"MySql",
+                    "logo":"https://maslinux.es/wp-content/uploads/2018/02/0dd7193f-e747-4a15-b797-818b9fac3656-mysql.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":80
+                },
+                {
+                    "nombre":"MongoDB",
+                    "logo":"https://secure.meetupstatic.com/photos/event/2/5/3/2/600_154269522.jpeg",
+                    "nivel":"Avanzado",
+                    "porcentaje":75
+                },
+                {
+                    "nombre":"SQL Server",
+                    "logo":"https://pe56d.s3.amazonaws.com/o_1beqsghj3r722un6hqd8v1hujm.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":75
+                },
+                {
+                    "nombre":"PostgreSQL",
+                    "logo":"https://www.stickpng.com/assets/images/584815fdcef1014c0b5e497a.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":75
+                },
+                {
+                    "nombre":"Google FireBase",
+                    "logo":"https://division5.co/wp-content/uploads/2019/06/firebase.png",
+                    "nivel":"Intermedio",
+                    "porcentaje":70
+                }
+            ],
+            "frameworks":[
+                {
+                    "nombre":"Angular",
+                    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":75
+                },      
+                {
+                    "nombre":"Express",
+                    "logo": "https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png",
+                    "nivel":"Intermedio",
+                    "porcentaje":70
+                },
+                {
+                    "nombre":"Node JS",
+                    "logo":"https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png",
+                    "nivel":"Intermedio",
+                    "porcentaje":70
+                },
+                {
+                    "nombre":"React JS",
+                    "logo":"https://www.stickpng.com/assets/images/584830f5cef1014c0b5e4aa1.png",
+                    "nivel":"Intermedio",
+                    "porcentaje":60
+                },
+                {
+                    "nombre":"CodeIgniter",
+                    "logo":"https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png",
+                    "nivel":"Intermedio",
+                    "porcentaje":60
+                },
+                {
+                    "nombre":"Bootstrap 4",
+                    "logo":"https://www.ambient-it.net/wp-content/uploads/2016/04/bootstrap-logo-175.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":95
+                },
+                {
+                    "nombre":"Angular Material",
+                    "logo":"https://s3-us-west-2.amazonaws.com/angular-templates/imgs/material-design-logo.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":80
+                },
+                {
+                    "nombre":"jQuery",
+                    "logo":"https://lineadecodigo.com/wp-content/uploads/2014/04/jquery-e1431944403253.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":90
+                },
+                {
+                    "nombre":"jQuery UI",
+                    "logo":"https://www.logolynx.com/images/logolynx/17/173af8a76e32d12d6b74ee39fff339a6.jpeg",
+                    "nivel": "Avanzado",
+                    "porcentaje":85
+                }
+            ],
+            "otros":[
+                {
+                    "nombre":"Api",
+                    "logo":"https://miro.medium.com/max/1000/1*lAR9Uh_gJ7dp23e0vhy5Hg.png",
+                    "nivel":"Intermedio",
+                    "porcentaje":60
+                },
+                {
+                    "nombre":"Ajax",
+                    "logo":"https://www.webakruti.com/wp-content/themes/webakruti/img/ajax.svg",
+                    "nivel":"Avanzado",
+                    "porcentaje":80
+                },
+                {
+                    "nombre":"Api Connect",
+                    "logo":"https://img.stackshare.io/service/9883/APIC-Icon-300dpi-_blue_.png",
+                    "nivel":"Intermedio",
+                    "porcentaje":70
+                }, 
+                {
+                    "nombre":"GitHub",
+                    "logo":"https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/276/full/github_logo.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":100
+                },
+                {
+                    "nombre":"Google API",
+                    "logo":"https://www.stickpng.com/assets/images/5847f9cbcef1014c0b5e48c8.png",
+                    "nivel":"Intermedio",
+                    "porcentaje":50
+                },
+                {
+                    "nombre":"JSON",
+                    "logo":"https://debugonweb.com/wp-content/uploads/2017/10/logo-json.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":100
+                },
+                {
+                    "nombre":"Wordpress",
+                    "logo":"https://s.w.org/style/images/about/WordPress-logotype-simplified.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":80
+                },
+                {
+                    "nombre":"Postman",
+                    "logo":"https://www.desarrollolibre.net/public/images/example/postman/postman.png",
+                    "nivel":"Avanzado",
+                    "porcentaje":75
+                }
+            ]
+        },
+        "diseño":[
+            {
+                "nombre":"PhotoShop",
+                "logo":"https://vblformations.fr/moodle/pluginfile.php/904/course/summary/photoshop.png",
+                "nivel":"Intermedio",
+                "porcentaje":55
+            },
+            {
+                "nombre":"GIMP 2",
+                "logo":"https://lh3.googleusercontent.com/proxy/myd26VMKnxGiNysuH9mBtQ3v9virk2U8XrgmrlwuaGSQXje14tG64-RQWDZD0R-FbhUZBn0Z9nqnu1JFbC1JeqJUpuykyTGLOThq",
+                "nivel":"Intermedio",
+                "porcentaje":70
+            },
+            {
+                "nombre":"canva",
+                "logo":"https://cdn6.aptoide.com/imgs/d/4/6/d4654b8172b46cdf430c16e2f47c8849_icon.png?w=240",
+                "nivel":"Avanzado",
+                "porcentaje":80
+            },
+            {
+                "nombre":"Inkscape",
+                "logo":"https://es.vector.me/files/images/2/5/254278/logo_inkscape_preview",
+                "nivel":"Intermedio",
+                "porcentaje":70
+            },
+            {
+                "nombre":"Corel Draw",
+                "logo":"https://www.coreldraw.com/static/cdgs/product_content/cdgs/2019/boxshot-coreldraw-upgrade-program-2019.png",
+                "nivel":"Avanzado",
+                "porcentaje":80
+            }
+        ],
+        "marketing":[
+            {
+                "nombre":"Facebook Ads",
+                "logo":"https://www.clicdata.com/wp-content/uploads/2019/01/facebook-ads-logo-1.png",
+                "nivel":"Avanzado",
+                "porcentaje":85
+            },
+            {
+                "nombre":"Google Analitics",
+                "logo":"https://dmpg.co.uk/wp-content/uploads/2018/02/Google-Analytics.png",
+                "nivel":"Intermedio",
+                "porcentaje":60
+            },
+            {
+                "nombre":"SEO",
+                "logo":"https://www.womgp.com/blog/wp-content/uploads/2019/05/SEO-PNG-300x285.png",
+                "nivel":"Intermedio",
+                "porcentaje":70
+            }
+        ],
+        "os":[
+            {
+                "nombre":"Windows",
+                "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Windows_logo_-_2012.png/219px-Windows_logo_-_2012.png",
+                "nivel":"Avanzado",
+                "porcentaje":95
+            },
+            {
+                "nombre":"Ubuntu Server",
+                "logo":"https://joemde.files.wordpress.com/2011/05/20101226131548ubuntu-logo1-c25c325b3pia.png",
+                "nivel":"Avanzado",
+                "porcentaje":75
+            },
+            {
+                "nombre":"MAC OS",
+                "logo":"https://images.vexels.com/media/users/3/140714/isolated/preview/1e292500381db7819a5f04534d2152d5-logo-de-mac-os-by-vexels.png",
+                "nivel":"Intermedio",
+                "porcentaje":70
+            },
+            {
+                "nombre":"Android",
+                "logo":"https://cdn4.iconfinder.com/data/icons/green-social-media-icons/744/logo_logotype_logos_android_operating_system-512.png",
+                "nivel":"Avanzado",
+                "porcentaje":80
+            },
+            {
+                "nombre":"IOS",
+                "logo":"https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png",
+                "nivel":"Avanzado",
+                "porcentaje":80
+            }
+        ],
+        "webservices":[
+            {
+                "nombre":"Google Cloud",
+                "logo":"https://www.gstatic.com/devrel-devsite/prod/v35095b53655653106712feb44f96c6929ce012ae38486ad7db1de265cbd9b7ec/cloud/images/favicons/onecloud/apple-icon.png",
+                "nivel":"Intermedio",
+                "porcentaje":50
+            },
+            {
+                "nombre":"Apache",
+                "logo":"https://2.bp.blogspot.com/-jdG0B1edGN0/WK3QOO3Oc7I/AAAAAAAAAqA/2mss9WZZlDUtPS7CA7WajbbyFr_j_n9UgCPcB/s1600/Apache.png",
+                "nivel":"Avanzado",
+                "porcentaje":75
+            },
+            {
+                "nombre":"VPS",
+                "logo":"https://www.jasamedia.co.id/images/vps.png",
+                "nivel":"Avanzado",
+                "porcentaje":90
+            }
+        ],
+        "office":[
+            {
+                "nombre":"Word",
+                "logo":"https://logodownload.org/wp-content/uploads/2018/10/word-logo.png",
+                "nivel":"Avanzado",
+                "porcentaje":95
+            },
+            {
+                "nombre":"Excel",
+                "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/489px-Microsoft_Excel_2013_logo.svg.png",
+                "nivel":"Avanzado",
+                "porcentaje":80
+            },
+            {
+                "nombre":"PowerPoint",
+                "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Microsoft_PowerPoint_2013_logo.svg/1043px-Microsoft_PowerPoint_2013_logo.svg.png",
+                "nivel":"Avanzado",
+                "porcentaje":90
+            },
+            {
+                "nombre":"OutLook",
+                "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Microsoft_Outlook_2013_logo.svg/1200px-Microsoft_Outlook_2013_logo.svg.png",
+                "nivel":"Avanzado",
+                "porcentaje":90
+            },
+            {
+                "nombre":"Trello",
+                "logo":"https://www.stickpng.com/assets/images/58482beecef1014c0b5e4a36.png",
+                "nivel":"Avanzado",
+                "porcentaje":95
+            }
+        ],
+        "sociales":[]
+    },
+    "idiomas":[
+        {
+            "nombre":"Español",
+            "logo":"https://i.pinimg.com/originals/31/a7/c5/31a7c5110e4dd3bca86083d865ff284e.png",
+            "nivel":"Nativo",
+            "porcentaje":100
+        },
+        {
+            "nombre":"Inglés",
+            "logo":"https://seeklogo.com/images/U/usa-sphere-flag-logo-3AB36B8AC8-seeklogo.com.png",
+            "nivel":"Avanzado",
+            "porcentaje":95
+        },
+        {
+            "nombre":"Portugués",
+            "logo":"https://www.hytechlabels.com.br/img/BandBras.png",
+            "nivel":"Avanzado",
+            "porcentaje":75
+        },
+        {
+            "nombre":"Francés",
+            "logo":"https://soldadosyuniformes.files.wordpress.com/2012/10/france3.png",
+            "nivel":"Avanzado",
+            "porcentaje":75
+        }
+    ],
+    "estudios":[
+        {
+            "titulo":"Escuela Secundaria",
+            "escuela":"I.E. José Granda",
+            "inicio":"1999-04-01",
+            "fin":"2003-12-20",
+            "estado":"Concluida",
+            "porcentaje":100
+        },
+        {
+            "titulo":"Traductor de Idiomas en Inglés y Francés",
+            "escuela":"Headway College Language Institue",
+            "inicio":"2005-03-01",
+            "fin":"2007-12-20",
+            "estado":"Titulado",
+            "porcentaje":100
+        },
+        {
+            "titulo":"Ingeniería Electrónica",
+            "escuela":"Universidad Tecnológia del Perú",
+            "inicio":"2010-01-05",
+            "fin":"2012-05-05",
+            "estado":"VI Ciclo",
+            "porcentaje":60
+        }
+    ],
+    "trabajos":{
+        "programador":[],
+        "instructor":[],
+        "empresario":[],
+        "traductor":[]
+    },
+    "certificados":[]
+}
